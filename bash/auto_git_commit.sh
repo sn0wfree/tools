@@ -1,4 +1,4 @@
-#! /usr/bin/bash
+#!/bin/bash
 
 branch_name=`git symbolic-ref --short -q HEAD`
 today=`date`
